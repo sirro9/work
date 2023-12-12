@@ -10,6 +10,7 @@ st.write("Los Angeles, located in the southwest of California, USA, is the secon
         "Los Angeles covers an area of about 1,215 square kilometers, with a city center located at 34°03′ north latitude and 118°15′ west longitude. The city has a population of over 4 million, making it a truly bustling metropolis.")
 st.write("Although Los Angeles is a prosperous city known as the City of Angels, its annual crime rate remains high in the United States. "
          "With such a high number of crimes in Los Angeles, is there any way to reduce the crime rate? Let's explore together with this project!(✪ω✪)(ಥ_ಥ) ᕦ(･ㅂ･)ᕤ")
+st.write("data source:https://catalog.data.gov/dataset/crime-data-from-2020-to-present")
 st.markdown('---')
 
 tab1, tab2, tab3 = st.tabs(['Crime location distribution', 'Victim bias research', 'Summary and recommendations.'])
